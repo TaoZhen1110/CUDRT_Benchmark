@@ -7,4 +7,4 @@ This project focuses on developing a comprehensive bilingual benchmark in both C
 
 ![CUDRT Experiment](Images/Fig8.jpg)
 
-### Explanation of Each Folder
+## Project Structure
