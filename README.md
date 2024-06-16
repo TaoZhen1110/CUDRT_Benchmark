@@ -7,4 +7,15 @@ This project focuses on developing a comprehensive bilingual benchmark in both C
 
 ![CUDRT Experiment](Images/Fig8.jpg)
 
+## Installation
+
+Before using CUDRT Benchmark:
+
+1. Ensure you have Python 3.9.0+
+2. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## Project Structure
