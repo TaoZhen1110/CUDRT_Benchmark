@@ -19,6 +19,8 @@ Before using CUDRT Benchmark:
     ```
 
 ## Project Structure
+The project is organized as follows:
+```
 CUDRT_Benchmark/
 ├── DataPreprocess/
 │ ├── Baichuan/
@@ -52,5 +54,5 @@ CUDRT_Benchmark/
 │ ├── Llama2/
 │ ├── Llama3/
 │ └── Qwen/
-
+```
 
