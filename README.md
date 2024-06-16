@@ -22,7 +22,7 @@ Before using CUDRT Benchmark:
 The project is organized as follows:
 ```
 CUDRT_Benchmark/
-├── DataPreprocess/        #
+├── DataPreprocess/        # Contains text generation code, mainly for various LLMs operations in the text generation process.
 │ ├── Baichuan/
 │ ├── ChatGLM/
 │ ├── GPT3.5/
@@ -30,17 +30,17 @@ CUDRT_Benchmark/
 │ ├── Llama2English/
 │ ├── Llama3English/
 │ └── Qwen/
-├── Detector/
+├── Detector/             # AI text detector source code.
 │ ├── Experiment2/
 │ ├── Experiment3/
 │ ├── MPU/
 │ ├── Roberta/
 │ └── XLNet/
-├── DetectorAll/
+├── DetectorAll/          # Three types of detection experiment codes and results.
 │ ├── Experiment1/
 │ ├── Experiment2/
 │ └── Experiment3/
-├── Process/
+├── Process/              # Make further revisions to the generated AI text.
 │ ├── Chinese/
 │ │ ├── Baichuan/
 │ │ ├── ChatGLM/
@@ -54,8 +54,8 @@ CUDRT_Benchmark/
 │ ├── Llama2/
 │ ├── Llama3/
 │ └── Qwen/
-├── DataPreprocess/
-├── DatasetAll/
-├── DatasetFinal/
+├── Origin_Data/          # Original human text dataset.
+├── DatasetAll/           # AI generated AI human parallel dataset.
+├── DatasetFinal/         # The final dataset used for detector training and testing.
 ```
 
