@@ -22,7 +22,7 @@ Before using CUDRT Benchmark:
 The project is organized as follows:
 ```
 CUDRT_Benchmark/
-├── DataPreprocess/
+├── DataPreprocess/        #
 │ ├── Baichuan/
 │ ├── ChatGLM/
 │ ├── GPT3.5/
