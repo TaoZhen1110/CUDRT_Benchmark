@@ -19,3 +19,38 @@ Before using CUDRT Benchmark:
     ```
 
 ## Project Structure
+CUDRT_Benchmark/
+├── DataPreprocess/
+│ ├── Baichuan/
+│ ├── ChatGLM/
+│ ├── GPT3.5/
+│ ├── GPT4Chinese/
+│ ├── Llama2English/
+│ ├── Llama3English/
+│ └── Qwen/
+├── Detector/
+│ ├── Experiment2/
+│ ├── Experiment3/
+│ ├── MPU/
+│ ├── Roberta/
+│ └── XLNet/
+├── DetectorAll/
+│ ├── Experiment1/
+│ ├── Experiment2/
+│ └── Experiment3/
+├── Process/
+│ ├── Chinese/
+│ │ ├── Baichuan/
+│ │ ├── ChatGLM/
+│ │ ├── GPT3.5/
+│ │ ├── GPT4/
+│ │ └── Qwen/
+│ └── English/
+│ ├── Baichuan/
+│ ├── ChatGLM/
+│ ├── GPT3.5/
+│ ├── Llama2/
+│ ├── Llama3/
+│ └── Qwen/
+
+
