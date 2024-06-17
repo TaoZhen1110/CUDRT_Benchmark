@@ -59,3 +59,12 @@ CUDRT_Benchmark/
 ├── DatasetFinal/         # The final dataset used for detector training and testing.
 ```
 
+## Citation
+```
+@article{tao2024cudrt,
+  title={CUDRT: Benchmarking the Detection of Human vs. Large Language Models Generated Texts},
+  author={Tao, Zhen and Li, Zhiyu and Xi, Dinghao and Xu, Wei},
+  journal={arXiv preprint arXiv:2406.09056},
+  year={2024}
+}
+```
