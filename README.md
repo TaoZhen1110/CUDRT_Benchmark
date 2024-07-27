@@ -56,7 +56,7 @@ CUDRT_Benchmark/
 │ └── Qwen/
 ├── Origin_Data/          # Original human text dataset.
 ├── DatasetAll/           # AI generated AI human parallel dataset.
-├── DatasetFinal/         # The final dataset used for detector training and testing.
+└── DatasetFinal/         # The final dataset used for detector training and testing.
 ```
 
 ## Citation
