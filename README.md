@@ -1,4 +1,4 @@
-# CUDRT: Benchmarking the Detection of Human vs. Large Language Models Generated Texts
+# Towards Reliable Detection of LLM-Generated Texts: A Comprehensive Evaluation Framework with CUDRT
 
 ![CUDRT Benchmark Framework](Images/Fig1.jpg)
 
